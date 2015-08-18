@@ -191,9 +191,9 @@ past_tomorrow_programs = get_rne_program_list (past_tomorrow_soup,channels,past_
 add_info_schedule=dict()
 
 generator_info_name=u'Python RNE XMLTV generator'
-generator_info_url=u''
+generator_info_url='https://github.com/gmag11/rne.es-program-guide-XMLTV-generator'
 source_info_name=u'Radio Nacional de España. RTVE.es'
-source_info_url=u'http://www.rtve.es/radio/programas/radio/'
+source_info_url='http://www.rtve.es/radio/programas/radio/'
 
 add_info_schedule['generator_info_name']=generator_info_name
 add_info_schedule['generator_info_url']=generator_info_url
